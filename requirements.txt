@@ -3,3 +3,6 @@ djangorestframework
 psycopg2-binary
 Pillow
 djangorestframework
+django-decouple
+django-filter
+drf_yasg

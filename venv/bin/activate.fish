@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/aza/Desktop/Django/pythonProject/First_Hackaton/venv"
+set -gx VIRTUAL_ENV "/home/aza/Desktop/First_Hackaton/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
